@@ -35,6 +35,6 @@ python SkewCorrection.py --image images/img4.png
 
 ## Output
 ### Skew image
-<img src='https://github.com/JafirDon/Skew-Correction-for-Text/blob/main/images/img4.png' width="40%" ></img> <br><br>
+<img src='https://github.com/JafirDon/Skew-Correction-for-Text-Python/blob/main/images/img4.png' width="40%" ></img> <br><br>
 ### Skew Corrected image
-<img src='https://github.com/JafirDon/Skew-Correction-for-Text/blob/main/images/Rotated_image.jpg' width="40%" ></img>
+<img src='https://github.com/JafirDon/Skew-Correction-for-Text-Python/blob/main/images/Rotated_image.jpg' width="40%" ></img>
