@@ -6,8 +6,8 @@ In this repo, I created a Skew Correction for text using **OpenCV** and **Python
 
 - First, apply the **threshold** in the grayscale image
 - **Dilates** a threshold image by using a specific structuring element
-- Finds and draw **contours** in a dilate image
-- Find **rectangle** of the minimum area using contours
+- Finds and draws **contours** in a dilated image
+- Find the **rectangle** of the minimum area using contours
 - Finally, **Wrap Transformation** with rectangle co-ordinates
 
 ## Installation
@@ -24,7 +24,7 @@ or
 pip install numpy==1.22.0
 pip install opencv-python==4.5.5.62
 ```
-Am using numpy version **1.22.0** and opencv version **4.5.5**, you can be used the updated version.
+Am using NumPy version **1.22.0** and OpenCV version **4.5.5**, you can be used the updated version.
 
 ## How to run it
 
